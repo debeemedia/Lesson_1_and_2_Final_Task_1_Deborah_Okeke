@@ -148,10 +148,12 @@ nav ul li img {
 .main-body .mic-icon {
 	height: 20px;
 	margin-right: 10px;
+	cursor: pointer;
 }
 
 .main-body .camera-icon {
 	height: 20px;
+	cursor: pointer;
 }
 
 .main-body .search input {
