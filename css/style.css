@@ -53,7 +53,7 @@ table {
 
 * {
 	box-sizing: border-box;
-	font-family: ;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .container {
@@ -123,21 +123,21 @@ nav ul li img {
 }
 
 .main-body .search {
-	width: 75vw;
-	max-width: 560px;
+	width: 65vw;
+	max-width: 550px;
 	margin: auto;
 	border: 1px solid lightgray;
 	border-radius: 50px;
 	display: flex;
 	align-items: center;
-	height: 40px;
+	height: 45px;
 	padding: 10px 20px;
 	margin-top: 40px;
 	
 }
 
 .main-body .search:hover {
-	box-shadow: 1px 1px 7px 1px lightgray;
+	box-shadow: 1px 1px 5px 0.5px lightgray;
 }
 
 .main-body .search-icon {
@@ -146,6 +146,7 @@ nav ul li img {
 
 .main-body .mic-icon {
 	height: 20px;
+	margin-right: 10px;
 }
 
 .main-body .camera-icon {
@@ -173,7 +174,7 @@ nav ul li img {
 }
 
 .main-body .buttons button:hover {
-	box-shadow: 0.5px 0.5px 1px 1px lightgray;
+	box-shadow: -0.5px 0.5px 2px 1px lightgray;
 }
 
 .main-body span {
